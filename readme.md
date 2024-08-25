@@ -51,7 +51,7 @@ Body:
   "message": "Room is already booked for the selected time slot."
 }
 
-Get All Rooms with Booking Data
+3. Get All Rooms with Booking Data
 Endpoint: GET /api/rooms
 Description: Retrieves all rooms along with their booking information.
 Success Response:
@@ -159,4 +159,6 @@ Body:
 }
 
 
-PostMan Doc :- 
+Postman local Doc :- https://documenter.getpostman.com/view/21169925/2sAXjF9F4p
+
+Postman render Doc :- https://documenter.getpostman.com/view/21169925/2sAXjF9F9J
